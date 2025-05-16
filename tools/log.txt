@@ -1,0 +1,7 @@
+2025-05-15 19:03:12,827 - INFO - Application start
+2025-05-15 19:03:13,328 - WARNING - stderr: Traceback (most recent call last):
+2025-05-15 19:03:13,328 - WARNING - stderr:   File "c:\Fisher-Price-Project\main.py", line 15, in <module>
+2025-05-15 19:03:13,329 - WARNING - stderr:     from screens.file_select_screen import FileSelectScreen
+2025-05-15 19:03:13,329 - WARNING - stderr:   File "c:\Fisher-Price-Project\screens\file_select_screen.py", line 9, in <module>
+2025-05-15 19:03:13,331 - WARNING - stderr:     from common import MIDI_FOLDER, CONVERTED_FOLDER, play_midi_file, stop_all_midi, make_nav
+2025-05-15 19:03:13,331 - WARNING - stderr: ImportError: cannot import name 'MIDI_FOLDER' from 'common' (c:\Fisher-Price-Project\common\__init__.py)
